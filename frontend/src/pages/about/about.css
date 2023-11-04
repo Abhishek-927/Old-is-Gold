@@ -1,0 +1,40 @@
+/* About page style */
+
+.about-head {
+  font-family: Arial, sans-serif;
+  color: #333;
+  padding-bottom: 5px;
+}
+
+.about-header {
+  background-color: #007bff;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.about-header > h1 {
+  font-size: 36px;
+}
+
+.about-head > main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.about-section {
+  margin-bottom: 20px;
+  padding: 20px 20px 20px 0;
+}
+
+.about-section > h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.about-section > p {
+  padding-left: 20px;
+}
